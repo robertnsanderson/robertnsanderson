@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @robertnsanderson
+- 👀 I’m interested in physics, mathematics, education, Python programming, and workflow automation
+- 🌱 I’m currently learning Python and Google Apps Script 
+- 💞️ I’m looking to collaborate on anything: I'm looking to learn
+- 📫 How to reach me: My work email at rsanderson@fsha.org
